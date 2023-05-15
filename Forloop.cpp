@@ -14,7 +14,7 @@ void SubArray(int arr[], int size) {
             cout<<"Sum: "<<sum;  
             sum = 0;     
             cout<<endl;     
-        }
+        }   
         
     }
 }
