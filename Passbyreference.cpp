@@ -8,6 +8,6 @@ void fun(int *ptr) {
 int main() {
     int x = 45;
     fun(&x);
-    cout<<"Value: "<<x;
+    cout<<"Value: "<<x; // 90
     return 0;
 }
