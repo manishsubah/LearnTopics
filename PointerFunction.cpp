@@ -3,9 +3,9 @@ using namespace std;
 
 bool switchFan(string str) {
     if(str == "true") {
-        return true;
+        return false;
     }
-    return false;
+    return true;
 }
 int main() {
 
